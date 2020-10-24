@@ -5,6 +5,14 @@
 }
 
 /* Mobile CSS */
+#lyrics {
+  max-width: 90%;
+  width: 90%;
+  margin: 5vw;
+  max-height: 30%;
+  height: 30vh;
+  padding: 10px;
+}
 
 /* Tablet CSS */
 @media (min-width: 415px) {
