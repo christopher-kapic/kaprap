@@ -1,7 +1,9 @@
 # KapRap
 Webapp to speed up writing raps by suggesting rhymes
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d3119980-98f9-4685-9950-571fc4e5d4b3/deploy-status)](https://app.netlify.com/sites/kaprap/deploys)
-[Try it here!](https://kaprap.netlify.app)
+
+<a href="https://kaprap.netlify.app" target="_blank">Try it here!</a>
 
 Plan:
 * experiment with hosting a site on Firebase
