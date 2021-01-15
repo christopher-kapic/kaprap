@@ -22,7 +22,7 @@ function getRhymes(){
         .then(response => response.json())
         .then(response => {
             for (res in response){
-                document.getElementById("rhymes").innerHTML += ("<p>" + response[res]['word'] + "</p>");
+                document.getElementById("rhymes").innerHTML += ('<p>' + response[res]['word'] + "</p>");
             }
         })
 

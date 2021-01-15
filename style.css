@@ -2,6 +2,8 @@
   margin: 0;
   padding: 0;
   font-family: "Roboto", sans-serif;
+  background-color: #223040;
+  color: #fff;
 }
 
 /* Mobile CSS */
@@ -12,6 +14,23 @@
   max-height: 30%;
   height: 30vh;
   padding: 10px;
+}
+
+#rhymes {
+  margin: 5vw;
+}
+
+.credit {
+  margin: 0;
+  position: fixed;
+  bottom: 0px;
+  background-color: #fff;
+  color: #000;
+}
+
+p .credit {
+  width: 80vw;
+  margin: 0px;
 }
 
 /* Tablet CSS */
